@@ -80,10 +80,12 @@ body{
 	font-weight: 400;
 	font-size: 24px;
 	color: #2F2325;
+	
 }
 
 .conteudo-principal-escrito-botao:hover {
 	background-color: #8E5D52;
+	
 }
 
 .conteudo-principal-imagem{
