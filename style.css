@@ -22,6 +22,7 @@ body{
 
 .cabecalho-imagem{
 	height: 72px;
+	border-radius: 50%;
 }
 
 .cabecalho-menu {
@@ -90,6 +91,7 @@ body{
 
 .conteudo-principal-imagem{
 	height: 300px;
+	border-radius: 50%;
 }
 
 .conteudo-secundario {
